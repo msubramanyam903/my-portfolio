@@ -17,6 +17,17 @@
 
 ---
 
+## 🔧 Core Responsibilities
+
+- 🔹 **Break-Fix Support** for Network & Cloud Infrastructure (L2/L3 Escalations)
+- 🔹 **Deployments** of Network Devices, Cloud Resources, and Site Rollouts
+- 🔹 **Patching** of Network Devices, Azure VMs, and On-Prem Servers
+- 🔹 **Troubleshooting** of Routing, Switching, DNS, DHCP, Firewall Rules, Load Balancing
+- 🔹 **Monitoring** via SolarWinds, Grafana, and Wireshark Packet Analysis
+- 🔹 **Incident & Problem Management** using ITSM tools like ServiceNow & Microsoft ICM
+
+---
+
 ## 🧳 Experience
 
 - **LTIMindtree**  
