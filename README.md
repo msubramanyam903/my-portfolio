@@ -19,12 +19,14 @@
 
 ## 🔧 Core Responsibilities
 
-- 🔹 **Break-Fix Support** for Network & Cloud Infrastructure (L2/L3 Escalations)
-- 🔹 **Deployments** of Network Devices, Cloud Resources, and Site Rollouts
-- 🔹 **Patching** of Network Devices, Azure VMs, and On-Prem Servers
-- 🔹 **Troubleshooting** of Routing, Switching, DNS, DHCP, Firewall Rules, Load Balancing
-- 🔹 **Monitoring** via SolarWinds, Grafana, and Wireshark Packet Analysis
-- 🔹 **Incident & Problem Management** using ITSM tools like ServiceNow & Microsoft ICM
+- 🔹 **Break-Fix & Escalation Handling** for Network & Azure Cloud Environments  
+- 🔹 **Patching**: OS & Firmware Updates, Azure VM Patch Schedules, Device Upgrades  
+- 🔹 **Deployments**: Network Devices, Azure Resources, Load Balancers, Site-to-Site VPN  
+- 🔹 **Change Management**: RFCs, CAB Meetings, Change Window Execution  
+- 🔹 **Troubleshooting**: Routing Loops, DNS Failures, Latency, Packet Drops, ACL Misconfig  
+- 🔹 **Monitoring & Alerts**: Proactive Monitoring, SNMP Alerts, Dashboards, Threshold Breaches  
+- 🔹 **Configuration Management**: Backup/Restore Configs, Gold Image Maintenance  
+- 🔹 **Post-Incident Review**: RCA Analysis, Preventive Actions, Documentation
 
 ---
 
